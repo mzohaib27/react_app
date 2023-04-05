@@ -1,0 +1,187 @@
+.card{
+    width: 18rem;
+    float: left;
+    margin: 5px;
+    
+}
+
+
+.carousel{
+    margin: 50px;
+   
+    margin-bottom: 10px;
+
+}
+#card4{
+  margin-right: auto;
+
+  
+}
+
+#card1{
+    justify-content: end;
+} 
+
+ /* Navbar CSS */
+
+#cont{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+
+#carouselExampleCaptions{
+    margin-top: 0px;
+}
+.d-flex{
+    padding-bottom: 5px;
+}
+
+.navbar-nav li a:hover{
+    display: block;
+    background-color: rgb(60, 59, 59);
+    color: white;
+}
+/* BANNER CSS */
+
+.banner{
+    background: url('./components/images/wallpapersden.com_macbook-camera-coffee_1600x900\(2\).jpg') no-repeat 0 0;
+    background-size: cover;
+    padding-top: 20px;
+}
+
+.banner-title{
+    margin-top: 80px;
+    margin-bottom: 200px;
+    /* margin-left: 300px; */
+    color:rgb(18, 1, 1);
+    background:transparent;
+}
+#prgrph{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: right;
+}
+.title{
+    text-align: right;
+}
+
+   /* CSS OF SERVICE SECTION */
+
+   .service-box{
+     text-align: center;
+   }
+   .section h3.section-head{
+    text-align: center;
+    margin-bottom: 10px;
+    
+    color: rgb(241, 62, 7);
+   }
+   
+   
+ #sec{
+    padding: 40px auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  
+
+ }
+   
+   .section h3.section-head:hover{
+    color: blue;
+    cursor: pointer;
+   }
+   .ser-header{
+    margin-bottom: 40px;
+    background-color: azure;
+   }
+   #heads{
+    margin-bottom: 60px;
+   }
+  
+   #testimonial{
+    background-image: url('./components/images/HD-wallpaper.jpg');
+    background-size: cover;
+    padding: 50px 0px;
+    position: relative;
+    color: white;
+   background-attachment: fixed;
+   
+    
+   }
+
+   .author-company:hover{
+    color: rgb(239, 10, 25);
+    cursor: pointer;
+   }
+   .author:hover{
+    color: rgb(239, 10, 25);
+    cursor: pointer;
+   }
+
+   #sec1:hover{
+    cursor: pointer; color: rgb(242, 47, 47);
+   }
+
+   .testimonials{
+    text-align: left;
+   }
+   #prg{
+    font-size: large;
+   }
+   #sec1{
+    padding-top: 0px;
+    padding-bottom: 40px;
+    
+   }
+
+   /* CSS of News Section */
+
+   .news-head{
+    text-align: center;
+    display: block;
+    margin-bottom: 5px;
+   
+    position: relative;
+   }
+
+   .news-heading{
+    /* margin-top: 5px; */
+    margin-bottom: 0px;
+    padding-left: 10px;
+   }
+   #news{
+    padding: 20px 0px 20px 0px;
+    margin: 20px 0px 20px 0px;
+    background-color: rgb(200, 206, 219);
+
+   }
+   .img{
+    background-size: cover;
+   }
+
+   #footer-head
+   
+   #footer-news ul li a{
+  color: rgb(255, 251, 251);
+  text-decoration: none;
+   }
+   #footer-news{
+    padding-left: 50px;
+   }
+  
+   #footer{
+    padding: 50px 130px 0px  150px;
+    background-color: rgb(41, 81, 124);
+    color: white;
+    border-bottom: 1px solid rgb(220, 217, 217);
+    margin-top: 50px;
+   }
+   #copy{
+    background-color:rgb(41, 81, 124);
+    padding: 5px 0px 5px 150px;
+    color: white;
+    text-align: left;
+   }
